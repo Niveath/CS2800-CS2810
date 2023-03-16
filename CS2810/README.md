@@ -9,3 +9,5 @@ Links to Lab Assignments:
 [Lab 3](https://www.hackerrank.com/ooaia-2023-lab-3)
 
 [Lab 4](https://www.hackerrank.com/ooaia-2023-lab-4)
+
+[Lab 5](https://www.hackerrank.com/ooaia-2023-lab-5)
